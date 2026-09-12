@@ -82,3 +82,4 @@ PathForge follows a simple career-development workflow:
 📚 Learn
    ↓
 🛠️
+https://pathforge-career-7rjkyotyrezp6yl7o5iehx.streamlit.app/
