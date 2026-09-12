@@ -83,3 +83,5 @@ PathForge follows a simple career-development workflow:
    ↓
 🛠️
 https://pathforge-career-7rjkyotyrezp6yl7o5iehx.streamlit.app/
+
+https://www.linkedin.com/in/akhil-kurapati-929a51376?utm_source=share_via&utm_content=profile&utm_medium=member_android
