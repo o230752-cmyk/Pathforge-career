@@ -11,8 +11,41 @@ st.set_page_config(
     page_title="PathForge|Career Builder",
     page_icon="🧭",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
+st.markdown("""
+<style>
+/* General mobile adjustments */
+@media (max-width: 768px) {
+    .block-container {
+        padding: 1rem 0.8rem;
+    }
+
+    h1 {
+        font-size: 1.8rem !important;
+    }
+
+    h2 {
+        font-size: 1.4rem !important;
+    }
+
+    h3 {
+        font-size: 1.2rem !important;
+    }
+
+    /* Make images responsive */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Prevent horizontal scrolling */
+    .stApp {
+        overflow-x: hidden;
+    }
+}
+</style>
+""", unsafe_allow_html=True)
 
 # ============================================================
 # UI STYLING
