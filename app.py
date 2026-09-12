@@ -1763,7 +1763,7 @@ with about_tab:
 
             st.link_button(
                 "🔗 Connect on LinkedIn",
-                "https://www.linkedin.com/in/akhil-kurapati-0b8b3b3b3/",
+                "https://www.linkedin.com/in/akhil-kurapati-929a51376?utm_source=share_via&utm_content=profile&utm_medium=member_android",
                 use_container_width=True
             )
 
